@@ -1,4 +1,4 @@
-![main](https://user-images.githubusercontent.com/50396533/147068283-70e7fc60-b787-45ea-b76f-15e7006f1f3e.png)
+![main](https://user-images.githubusercontent.com/50396533/147069300-5038c779-faa4-404b-b1fd-e9e3896f06b4.png)
 
 # 부스트캠프 AI Tech 2기의 Github에 오신 것을 환영합니다
 부스트캠프는 좋은 경험과 습관을 가진 지속 가능한 개발자를 목표로 서로에게 배우고 문제를 해결하며 성장합니다. 이곳에서는 부스트캠프 AI Tech에 참여한 학생(캠퍼)들의 프로젝트 결과를 확인할 수 있습니다.
@@ -10,11 +10,7 @@
 * U Stage(기초이론+실습) : AI 모델 개발/서비스 적용에 필요한 기초 지식을 학습하고 도메인마다 널리 쓰이는 backbone 모델을 다룹니다. 
 * P Stage(대회형 실습) : AI를 많이 활용하는 응용 분야의 실전 프로젝트를 통해 현업과 유사한 엔지니어링 프로세스를 경험합니다.
 
-
-
-![path_of_growth](https://user-images.githubusercontent.com/50396533/147068345-3dbc42a0-c0db-4597-b007-ccfb26a7a9dc.png)
-
-
+![path_of_growth](https://user-images.githubusercontent.com/50396533/147070055-023f8015-eb19-47a7-8497-b97f9685f538.png)
 
 ## [프로젝트 개요]
 
