@@ -9,7 +9,7 @@
 02|CV|[---절취선---](https://github.com/boostcampaitech2/final-project-level3-cv-01)|PM(Personal Mobility) 위법행위 감지 시스템 개발
 03|CV|[P2P](https://github.com/boostcampaitech2/final-project-level3-cv-15)|교통관리에 AI가 적용된다면?
 04|NLP|[AI-it](https://github.com/boostcampaitech2/final-project-level3-nlp-12)|누구인가? 누가 내 험담을 하는가!
-05|NLP|[ㅇㄱㄹㅇ](https://github.com/boostcampaitech2/final-project-level3-nlp-05)|귀가도니 - 출퇴근길에 듣는 인공지능 뉴스 팟캐스트
+05|NLP|[ㅇㄱㄹㅇ](https://github.com/boostcampaitech2/final-project-level3-nlp-05)|귀가노니 - 출퇴근길에 듣는 인공지능 뉴스 팟캐스트
 06|NLP|[조지KLUE니](https://github.com/boostcampaitech2/final-project-level3-nlp-07)|너의 목소리가 보여 (I can read your voice)
 
 
