@@ -20,7 +20,7 @@
 
 ![path_of_growth](https://user-images.githubusercontent.com/50396533/147070055-023f8015-eb19-47a7-8497-b97f9685f538.png)
 
-## [프로젝트 개요]
+### [프로젝트 개요]
 
 
 * __공통__
@@ -30,7 +30,7 @@
 이미지분류|image-classification-level1|인물 사진에서 사람이 마스크를 쓰고 있는지, 쓰지 않았는지, 정확히 쓴 것이 맞는 지, 자동으로 가려낼 수 있는 모델을 구현합니다. |F1, accuracy
 
 
-* __Computer Vision (컴퓨터 비전)__
+* __컴퓨터 비전 (Computer Vision)__
 
 이름|검색키워드|설명|평가방법
 ----|----|----|----
@@ -41,7 +41,7 @@
 최종 프로젝트|final-project-level3-cv|팀별로 자유롭게 주제를 선정하여 AI 모델링 프로젝트를 진행합니다. |-
 
 
-* __Natural Language Processiong (자연어 처리)__
+* __자연어 처리 (Natural Language Processiong)__
 
 이름|검색키워드|설명|평가방법
 ----|----|----|----
@@ -50,3 +50,7 @@
 데이터 제작|data-annotation-level3-nlp|실무에서 활용되는 AI 프로젝트 과정의 전반적인 이해와 함께 피드백 사이클을 통해 점진적으로 모델 성능을 개선합니다. |-
 모델 최적화|model-optimization-level3-nlp|작은 규모의 Auto ML을 활용하여 작고 빠른 이미지 분류 모델을 만드는 프로젝트입니다. 제한된 자원을 가지고 이미지에서 재활용 쓰레기를 분류하는 모델을 경량화합니다. |Score(F1, time)
 최종 프로젝트|final-project-level3-nlp|팀별로 자유롭게 주제를 선정하여 AI 모델링 프로젝트를 진행합니다. |-
+
+### [기타]
+* 부스트캠프 홈페이지 : https://boostcamp.connect.or.kr/
+* 문의 : boostcamp_ai@connect.or.kr
