@@ -12,6 +12,7 @@ __이번 네트워킹데이를 통해 학생들은 그동안 쌓은 역량과 �
 
 
 ### [팀별 repo 목록] 
+* 네트워킹데이 발표팀 : https://github.com/boostcampaitech2/Overview/blob/main/NetworkingDay_TimeTable.md
 * 컴퓨터 비전(CV) : https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_CV.md
 * 자연어 처리(NLP) : https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_NLP.md
 
