@@ -5,7 +5,7 @@
 
 __이번 네트워킹데이를 통해 학생들은 그동안 쌓은 역량과 재능을 마음껏 펼치고, 기업은 필요한 인재를 만나는 시간이 되길 바랍니다.__
 
-### [발표시간표]
+### [시간표]
 
 ![brochure_1](https://user-images.githubusercontent.com/50396533/147172202-140d9c8d-6e36-4c89-b426-0351f1a7ded1.JPG)
 ![brochure_2](https://user-images.githubusercontent.com/50396533/147172234-da1328dd-8de8-4502-8891-2416e5d70d04.JPG)
