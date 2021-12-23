@@ -1,7 +1,7 @@
 
 * 팀명 클릭시, 해당 프로젝트의 레포로 이동합니다.
 
-### [Track1]
+### [Track1] Social Problem
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
@@ -13,7 +13,7 @@
 06|NLP|[조지KLUE니](https://github.com/boostcampaitech2/final-project-level3-nlp-07)|너의 목소리가 보여 (I can read your voice)
 
 
-### [Track2]
+### [Track2] Generation or Detection
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
@@ -24,7 +24,7 @@
 05|CV|[Machine==우리조](https://github.com/boostcampaitech2/final-project-level3-cv-14)|AI 사진 복원 도구 : Good-Bye 옥에티
 06|CV|[12월](https://github.com/boostcampaitech2/final-project-level3-cv-02)|MLOps를 활용한 2세 얼굴 예측기
 
-### [Track3]
+### [Track3] A Guide to sth
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
@@ -34,7 +34,7 @@
 04|CV|[무럭무럭 감자밭](https://github.com/boostcampaitech2/final-project-level3-cv-04)|올바른 손씻기 교육을 위한 손씻기 단계 인식 모델
 05|CV|[팀명뭘로하조](https://github.com/boostcampaitech2/final-project-level3-cv-08)|DanceFit : Pose Estimation을 이용한 댄스 교정
 
-### [Track4]
+### [Track4] Personalization
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
@@ -44,7 +44,7 @@
 04|CV|[컴퓨터구조](https://github.com/boostcampaitech2/final-project-level3-cv-07)|오이 (OCR in Editor)
 05|CV|[VISUAL](https://github.com/boostcampaitech2/final-project-level3-cv-17)|Do you know Kimchi?
 
-### [Track5]
+### [Track5] Translation or Detection
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
@@ -54,7 +54,7 @@
 04|NLP|[범블비](https://github.com/boostcampaitech2/final-project-level3-nlp-03)|Between spaces
 05|NLP|[화이트보드](https://github.com/boostcampaitech2/final-project-level3-nlp-10)|실시간 악성채팅 탐지 시스템
 
-### [Track6]
+### [Track6] ChatBot or Generation
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
@@ -64,7 +64,7 @@
 04|NLP|[Covit-19](https://github.com/boostcampaitech2/final-project-level3-nlp-19)|AI Paperboy
 05|NLP|[Team Quadro](https://github.com/boostcampaitech2/final-project-level3-nlp-17)|TabNet을 활용한 리그 오브 레전드 승패 예측
 
-### [Track7]
+### [Track7] General sth to Recommend
 
 순번|구분|팀 이름| 발표제목
 ----|----|----|----
