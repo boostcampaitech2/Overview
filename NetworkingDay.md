@@ -12,8 +12,8 @@ __이번 네트워킹데이를 통해 학생들은 그동안 쌓은 역량과 �
 
 
 ### [팀별 repo 목록] 
-https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_CV.md
-https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_NLP.md
+* 컴퓨터 비전(CV) : https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_CV.md
+* 자연어 처리(NLP) : https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_NLP.md
 
 ### [기업파트너]
 ART Lab, Asleep 아토머스-마인드카페, ㈜에즈웰플러스, Cake, CJ올리브네트웍스, ㈜게임듀오, ㈜휴레이포지티브, 중고나라, 카카오, 카카오페이, 라온피플, Lunit, 마키나락스, 마인즈앤컴퍼니, 라인플러스, ㈜릴리커버, 네이버 미디어Tech, 네이버 회원&인증플랫폼, 네이버 포토클라우드, 클라우드 플랫폼, 네이버 SmartStudio, 네이버 CLOVA, 네이버 Tune, 네이버 Z, 네이버 , Nota, 누비랩, 옴니어스㈜, ㈜온테크, 프로메디우스㈜, ㈜서울 로보틱스, SNOW, SOCAR, 사운더블헬스,주식회사 시즌, ㈜테서, Tilda, Upstage, Voithru, VoyagerX, 제제듀
