@@ -51,6 +51,11 @@
 모델 최적화|model-optimization-level3-nlp|작은 규모의 Auto ML을 활용하여 작고 빠른 이미지 분류 모델을 만드는 프로젝트입니다. 제한된 자원을 가지고 이미지에서 재활용 쓰레기를 분류하는 모델을 경량화합니다. |Score(F1, time)
 최종 프로젝트|final-project-level3-nlp|팀별로 자유롭게 주제를 선정하여 AI 모델링 프로젝트를 진행합니다. |-
 
+### [팀별 레포 목록]
+* 네트워킹데이 발표팀 : https://github.com/boostcampaitech2/Overview/blob/main/NetworkingDay_TimeTable.md
+* 컴퓨터 비전(CV) : https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_CV.md
+* 자연어 처리(NLP) : https://github.com/boostcampaitech2/Overview/blob/main/repoList_teamDetail_NLP.md
+
 ### [기타]
 * 부스트캠프 홈페이지 : https://boostcamp.connect.or.kr/
 * 문의 : boostcamp_ai@connect.or.kr
